@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="MysterWE, LLC - Innovative aviation and technology solutions." />
+  <meta name="keywords" content="MysterWE, LLC, aviation, technology, apps" />
+  <meta name="author" content="MysterWE, LLC" />
+  <title>MysterWE, LLC</title>
+  <style>
+    :root {
+      --bg-color: #0d1117;
+      --text-color: #c9d1d9;
+      --accent-color: #1f6feb;
+      --nav-bg: #161b22;
+      --border-color: #30363d;
+    }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+    }
+    header {
+      background: var(--nav-bg);
+      padding: 1rem;
+      text-align: center;
+      border-bottom: 1px solid var(--border-color);
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      color: var(--accent-color);
+    }
+    a {
+      color: var(--accent-color);
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      border-top: 1px solid var(--border-color);
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>MysterWE, LLC</h1>
+    <p>Innovative Solutions in Aviation and Technology</p>
+  </header>
+  <main>
+    <h2>Welcome</h2>
+    <p>Explore our cutting-edge applications designed to enhance your experience in aviation and beyond.</p>
+    <h3>Our Apps</h3>
+    <ul>
+      <li><a href="surveypilotpro/">Survey Pilot Pro</a> - The essential aviation survey companion app.</li>
+    </ul>
+    <p>Stay tuned for more innovative tools from MysterWE, LLC.</p>
+  </main>
+  <footer>
+    &copy; 2025 MysterWE, LLC. All rights reserved.
+  </footer>
+</body>
+</html>
